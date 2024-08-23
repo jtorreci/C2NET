@@ -1,0 +1,712 @@
+,Embalse,Tipo,Año,Estación,Concentración
+0,Acebo,Medicion,2017,v,3.0
+1,Acebo,Medicion,2017,o,
+2,Acebo,Medicion,2018,v,
+3,Acebo,Medicion,2018,o,
+4,Acebo,Medicion,2019,v,
+5,Acebo,Medicion,2019,o,
+6,Acebo,Medicion,2020,v,
+7,Acebo,Medicion,2020,o,2.5
+8,Acebo,Medicion,2021,v,
+9,Acebo,Medicion,2021,o,7.5
+10,Acebo,Medicion,2022,v,
+11,Acebo,Medicion,2022,o,11.5
+12,Aguijon,Medicion,2017,v,
+13,Aguijon,Medicion,2017,o,
+14,Aguijon,Medicion,2018,v,
+15,Aguijon,Medicion,2018,o,
+16,Aguijon,Medicion,2019,v,
+17,Aguijon,Medicion,2019,o,
+18,Aguijon,Medicion,2020,v,
+19,Aguijon,Medicion,2020,o,5.27
+20,Aguijon,Medicion,2021,v,47.07
+21,Aguijon,Medicion,2021,o,44.26
+22,Aguijon,Medicion,2022,v,20.76
+23,Aguijon,Medicion,2022,o,166.96
+24,Alcuescar,Medicion,2017,v,
+25,Alcuescar,Medicion,2017,o,
+26,Alcuescar,Medicion,2018,v,
+27,Alcuescar,Medicion,2018,o,
+28,Alcuescar,Medicion,2019,v,
+29,Alcuescar,Medicion,2019,o,
+30,Alcuescar,Medicion,2020,v,
+31,Alcuescar,Medicion,2020,o,16.3
+32,Alcuescar,Medicion,2021,v,26.89
+33,Alcuescar,Medicion,2021,o,20.94
+34,Alcuescar,Medicion,2022,v,206.8
+35,Alcuescar,Medicion,2022,o,12.35
+36,Aldea del Cano,Medicion,2017,v,
+37,Aldea del Cano,Medicion,2017,o,
+38,Aldea del Cano,Medicion,2018,v,
+39,Aldea del Cano,Medicion,2018,o,
+40,Aldea del Cano,Medicion,2019,v,
+41,Aldea del Cano,Medicion,2019,o,
+42,Aldea del Cano,Medicion,2020,v,
+43,Aldea del Cano,Medicion,2020,o,131.6
+44,Aldea del Cano,Medicion,2021,v,82.09
+45,Aldea del Cano,Medicion,2021,o,63.78
+46,Aldea del Cano,Medicion,2022,v,91.02
+47,Aldea del Cano,Medicion,2022,o,46.81
+48,Aliseda,Medicion,2017,v,
+49,Aliseda,Medicion,2017,o,
+50,Aliseda,Medicion,2018,v,
+51,Aliseda,Medicion,2018,o,
+52,Aliseda,Medicion,2019,v,
+53,Aliseda,Medicion,2019,o,
+54,Aliseda,Medicion,2020,v,
+55,Aliseda,Medicion,2020,o,12.65
+56,Aliseda,Medicion,2021,v,
+57,Aliseda,Medicion,2021,o,8.64
+58,Aliseda,Medicion,2022,v,
+59,Aliseda,Medicion,2022,o,14.32
+60,Alpotrel,Medicion,2017,v,
+61,Alpotrel,Medicion,2017,o,
+62,Alpotrel,Medicion,2018,v,
+63,Alpotrel,Medicion,2018,o,
+64,Alpotrel,Medicion,2019,v,
+65,Alpotrel,Medicion,2019,o,
+66,Alpotrel,Medicion,2020,v,
+67,Alpotrel,Medicion,2020,o,25.0
+68,Alpotrel,Medicion,2021,v,
+69,Alpotrel,Medicion,2021,o,10.4
+70,Alpotrel,Medicion,2022,v,
+71,Alpotrel,Medicion,2022,o,18.13
+72,Arrocerezal,Medicion,2017,v,
+73,Arrocerezal,Medicion,2017,o,
+74,Arrocerezal,Medicion,2018,v,
+75,Arrocerezal,Medicion,2018,o,
+76,Arrocerezal,Medicion,2019,v,
+77,Arrocerezal,Medicion,2019,o,
+78,Arrocerezal,Medicion,2020,v,
+79,Arrocerezal,Medicion,2020,o,0.73
+80,Arrocerezal,Medicion,2021,v,
+81,Arrocerezal,Medicion,2021,o,6.69
+82,Arrocerezal,Medicion,2022,v,
+83,Arrocerezal,Medicion,2022,o,18.95
+84,Brozas,Medicion,2017,v,
+85,Brozas,Medicion,2017,o,
+86,Brozas,Medicion,2018,v,
+87,Brozas,Medicion,2018,o,
+88,Brozas,Medicion,2019,v,
+89,Brozas,Medicion,2019,o,
+90,Brozas,Medicion,2020,v,
+91,Brozas,Medicion,2020,o,36.57
+92,Brozas,Medicion,2021,v,50.1
+93,Brozas,Medicion,2021,o,113.38
+94,Brozas,Medicion,2022,v,44.79
+95,Brozas,Medicion,2022,o,40.0
+96,Burguillos del Cerro,Medicion,2017,v,
+97,Burguillos del Cerro,Medicion,2017,o,
+98,Burguillos del Cerro,Medicion,2018,v,
+99,Burguillos del Cerro,Medicion,2018,o,
+100,Burguillos del Cerro,Medicion,2019,v,
+101,Burguillos del Cerro,Medicion,2019,o,
+102,Burguillos del Cerro,Medicion,2020,v,
+103,Burguillos del Cerro,Medicion,2020,o,14.88
+104,Burguillos del Cerro,Medicion,2021,v,88.95
+105,Burguillos del Cerro,Medicion,2021,o,1.9
+106,Burguillos del Cerro,Medicion,2022,v,61.64
+107,Burguillos del Cerro,Medicion,2022,o,201.095
+108,Cantalgallo,Medicion,2017,v,
+109,Cantalgallo,Medicion,2017,o,
+110,Cantalgallo,Medicion,2018,v,
+111,Cantalgallo,Medicion,2018,o,
+112,Cantalgallo,Medicion,2019,v,
+113,Cantalgallo,Medicion,2019,o,
+114,Cantalgallo,Medicion,2020,v,
+115,Cantalgallo,Medicion,2020,o,8.2
+116,Cantalgallo,Medicion,2021,v,
+117,Cantalgallo,Medicion,2021,o,4.39
+118,Cantalgallo,Medicion,2022,v,
+119,Cantalgallo,Medicion,2022,o,12.2
+120,Carrascalejo,Medicion,2017,v,
+121,Carrascalejo,Medicion,2017,o,
+122,Carrascalejo,Medicion,2018,v,
+123,Carrascalejo,Medicion,2018,o,
+124,Carrascalejo,Medicion,2019,v,
+125,Carrascalejo,Medicion,2019,o,
+126,Carrascalejo,Medicion,2020,v,
+127,Carrascalejo,Medicion,2020,o,7.3
+128,Carrascalejo,Medicion,2021,v,
+129,Carrascalejo,Medicion,2021,o,10.99
+130,Carrascalejo,Medicion,2022,v,
+131,Carrascalejo,Medicion,2022,o,13.24
+132,El Santo,Medicion,2017,v,
+133,El Santo,Medicion,2017,o,
+134,El Santo,Medicion,2018,v,
+135,El Santo,Medicion,2018,o,
+136,El Santo,Medicion,2019,v,
+137,El Santo,Medicion,2019,o,
+138,El Santo,Medicion,2020,v,
+139,El Santo,Medicion,2020,o,9.77
+140,El Santo,Medicion,2021,v,
+141,El Santo,Medicion,2021,o,13.43
+142,El Santo,Medicion,2022,v,
+143,El Santo,Medicion,2022,o,62.78
+144,Garciaz,Medicion,2017,v,
+145,Garciaz,Medicion,2017,o,
+146,Garciaz,Medicion,2018,v,
+147,Garciaz,Medicion,2018,o,
+148,Garciaz,Medicion,2019,v,
+149,Garciaz,Medicion,2019,o,
+150,Garciaz,Medicion,2020,v,
+151,Garciaz,Medicion,2020,o,5.53
+152,Garciaz,Medicion,2021,v,
+153,Garciaz,Medicion,2021,o,4.33
+154,Garciaz,Medicion,2022,v,
+155,Garciaz,Medicion,2022,o,16.42
+156,Garganta del Obispo,Medicion,2017,v,
+157,Garganta del Obispo,Medicion,2017,o,
+158,Garganta del Obispo,Medicion,2018,v,
+159,Garganta del Obispo,Medicion,2018,o,
+160,Garganta del Obispo,Medicion,2019,v,
+161,Garganta del Obispo,Medicion,2019,o,
+162,Garganta del Obispo,Medicion,2020,v,
+163,Garganta del Obispo,Medicion,2020,o,0.97
+164,Garganta del Obispo,Medicion,2021,v,
+165,Garganta del Obispo,Medicion,2021,o,1.9
+166,Garganta del Obispo,Medicion,2022,v,
+167,Garganta del Obispo,Medicion,2022,o,85.33
+168,Guadalupe,Medicion,2017,v,
+169,Guadalupe,Medicion,2017,o,
+170,Guadalupe,Medicion,2018,v,
+171,Guadalupe,Medicion,2018,o,
+172,Guadalupe,Medicion,2019,v,
+173,Guadalupe,Medicion,2019,o,
+174,Guadalupe,Medicion,2020,v,
+175,Guadalupe,Medicion,2020,o,7.29
+176,Guadalupe,Medicion,2021,v,
+177,Guadalupe,Medicion,2021,o,7.6
+178,Guadalupe,Medicion,2022,v,
+179,Guadalupe,Medicion,2022,o,17.09
+180,Hervas,Medicion,2017,v,
+181,Hervas,Medicion,2017,o,
+182,Hervas,Medicion,2018,v,
+183,Hervas,Medicion,2018,o,
+184,Hervas,Medicion,2019,v,
+185,Hervas,Medicion,2019,o,
+186,Hervas,Medicion,2020,v,
+187,Hervas,Medicion,2020,o,8.42
+188,Hervas,Medicion,2021,v,
+189,Hervas,Medicion,2021,o,12.93
+190,Hervas,Medicion,2022,v,
+191,Hervas,Medicion,2022,o,19.42
+192,Jaime Ozores,Medicion,2017,v,18.0
+193,Jaime Ozores,Medicion,2017,o,74.0
+194,Jaime Ozores,Medicion,2018,v,14.0
+195,Jaime Ozores,Medicion,2018,o,39.0
+196,Jaime Ozores,Medicion,2019,v,14.56
+197,Jaime Ozores,Medicion,2019,o,200.0
+198,Jaime Ozores,Medicion,2020,v,
+199,Jaime Ozores,Medicion,2020,o,35.68
+200,Jaime Ozores,Medicion,2021,v,43.74
+201,Jaime Ozores,Medicion,2021,o,7.28
+202,Jaime Ozores,Medicion,2022,v,199.83
+203,Jaime Ozores,Medicion,2022,o,211.82
+204,la Pesga,Medicion,2017,v,
+205,la Pesga,Medicion,2017,o,
+206,la Pesga,Medicion,2018,v,
+207,la Pesga,Medicion,2018,o,
+208,la Pesga,Medicion,2019,v,
+209,la Pesga,Medicion,2019,o,
+210,la Pesga,Medicion,2020,v,
+211,la Pesga,Medicion,2020,o,6.24
+212,la Pesga,Medicion,2021,v,
+213,la Pesga,Medicion,2021,o,33.45
+214,la Pesga,Medicion,2022,v,
+215,la Pesga,Medicion,2022,o,20.13
+216,Llerena,Medicion,2017,v,
+217,Llerena,Medicion,2017,o,
+218,Llerena,Medicion,2018,v,
+219,Llerena,Medicion,2018,o,
+220,Llerena,Medicion,2019,v,
+221,Llerena,Medicion,2019,o,
+222,Llerena,Medicion,2020,v,
+223,Llerena,Medicion,2020,o,44.85
+224,Llerena,Medicion,2021,v,
+225,Llerena,Medicion,2021,o,38.37
+226,Llerena,Medicion,2022,v,30.43
+227,Llerena,Medicion,2022,o,147.12
+228,Los Angeles,Medicion,2017,v,
+229,Los Angeles,Medicion,2017,o,
+230,Los Angeles,Medicion,2018,v,
+231,Los Angeles,Medicion,2018,o,
+232,Los Angeles,Medicion,2019,v,
+233,Los Angeles,Medicion,2019,o,
+234,Los Angeles,Medicion,2020,v,
+235,Los Angeles,Medicion,2020,o,3.99
+236,Los Angeles,Medicion,2021,v,
+237,Los Angeles,Medicion,2021,o,41.63
+238,Los Angeles,Medicion,2022,v,
+239,Los Angeles,Medicion,2022,o,45.73
+240,Los Huertos,Medicion,2017,v,
+241,Los Huertos,Medicion,2017,o,
+242,Los Huertos,Medicion,2018,v,
+243,Los Huertos,Medicion,2018,o,
+244,Los Huertos,Medicion,2019,v,
+245,Los Huertos,Medicion,2019,o,
+246,Los Huertos,Medicion,2020,v,
+247,Los Huertos,Medicion,2020,o,32.54
+248,Los Huertos,Medicion,2021,v,
+249,Los Huertos,Medicion,2021,o,26.69
+250,Los Huertos,Medicion,2022,v,63.4
+251,Los Huertos,Medicion,2022,o,70.55
+252,Madronnera,Medicion,2017,v,
+253,Madronnera,Medicion,2017,o,
+254,Madronnera,Medicion,2018,v,
+255,Madronnera,Medicion,2018,o,
+256,Madronnera,Medicion,2019,v,
+257,Madronnera,Medicion,2019,o,
+258,Madronnera,Medicion,2020,v,
+259,Madronnera,Medicion,2020,o,19.76
+260,Madronnera,Medicion,2021,v,3.57
+261,Madronnera,Medicion,2021,o,13.12
+262,Madronnera,Medicion,2022,v,6.67
+263,Madronnera,Medicion,2022,o,38.93
+264,Majadillas,Medicion,2017,v,
+265,Majadillas,Medicion,2017,o,
+266,Majadillas,Medicion,2018,v,
+267,Majadillas,Medicion,2018,o,
+268,Majadillas,Medicion,2019,v,
+269,Majadillas,Medicion,2019,o,
+270,Majadillas,Medicion,2020,v,
+271,Majadillas,Medicion,2020,o,5.16
+272,Majadillas,Medicion,2021,v,
+273,Majadillas,Medicion,2021,o,2.78
+274,Majadillas,Medicion,2022,v,
+275,Majadillas,Medicion,2022,o,25.99
+276,Majarrobledo,Medicion,2017,v,
+277,Majarrobledo,Medicion,2017,o,
+278,Majarrobledo,Medicion,2018,v,
+279,Majarrobledo,Medicion,2018,o,
+280,Majarrobledo,Medicion,2019,v,
+281,Majarrobledo,Medicion,2019,o,
+282,Majarrobledo,Medicion,2020,v,
+283,Majarrobledo,Medicion,2020,o,0.4
+284,Majarrobledo,Medicion,2021,v,
+285,Majarrobledo,Medicion,2021,o,2.27
+286,Majarrobledo,Medicion,2022,v,
+287,Majarrobledo,Medicion,2022,o,20.48
+288,Membrio,Medicion,2017,v,
+289,Membrio,Medicion,2017,o,
+290,Membrio,Medicion,2018,v,
+291,Membrio,Medicion,2018,o,
+292,Membrio,Medicion,2019,v,
+293,Membrio,Medicion,2019,o,
+294,Membrio,Medicion,2020,v,
+295,Membrio,Medicion,2020,o,19.53
+296,Membrio,Medicion,2021,v,
+297,Membrio,Medicion,2021,o,44.41
+298,Membrio,Medicion,2022,v,
+299,Membrio,Medicion,2022,o,60.76
+300,Navarredonda,Medicion,2017,v,
+301,Navarredonda,Medicion,2017,o,
+302,Navarredonda,Medicion,2018,v,
+303,Navarredonda,Medicion,2018,o,
+304,Navarredonda,Medicion,2019,v,
+305,Navarredonda,Medicion,2019,o,
+306,Navarredonda,Medicion,2020,v,
+307,Navarredonda,Medicion,2020,o,101.63
+308,Navarredonda,Medicion,2021,v,74.28
+309,Navarredonda,Medicion,2021,o,164.61
+310,Navarredonda,Medicion,2022,v,10.53
+311,Navarredonda,Medicion,2022,o,3.39
+312,Navas del Madronno,Medicion,2017,v,
+313,Navas del Madronno,Medicion,2017,o,
+314,Navas del Madronno,Medicion,2018,v,
+315,Navas del Madronno,Medicion,2018,o,
+316,Navas del Madronno,Medicion,2019,v,
+317,Navas del Madronno,Medicion,2019,o,
+318,Navas del Madronno,Medicion,2020,v,
+319,Navas del Madronno,Medicion,2020,o,31.19
+320,Navas del Madronno,Medicion,2021,v,10.48
+321,Navas del Madronno,Medicion,2021,o,33.63
+322,Navas del Madronno,Medicion,2022,v,29.38
+323,Navas del Madronno,Medicion,2022,o,30.53
+324,Nogales,Medicion,2017,v,
+325,Nogales,Medicion,2017,o,
+326,Nogales,Medicion,2018,v,
+327,Nogales,Medicion,2018,o,
+328,Nogales,Medicion,2019,v,
+329,Nogales,Medicion,2019,o,
+330,Nogales,Medicion,2020,v,
+331,Nogales,Medicion,2020,o,37.27
+332,Nogales,Medicion,2021,v,94.0
+333,Nogales,Medicion,2021,o,26.83
+334,Nogales,Medicion,2022,v,96.46
+335,Nogales,Medicion,2022,o,45.815
+336,Palomero,Medicion,2017,v,
+337,Palomero,Medicion,2017,o,
+338,Palomero,Medicion,2018,v,
+339,Palomero,Medicion,2018,o,
+340,Palomero,Medicion,2019,v,
+341,Palomero,Medicion,2019,o,
+342,Palomero,Medicion,2020,v,
+343,Palomero,Medicion,2020,o,2.35
+344,Palomero,Medicion,2021,v,
+345,Palomero,Medicion,2021,o,18.75
+346,Palomero,Medicion,2022,v,
+347,Palomero,Medicion,2022,o,44.83
+348,Pretura del Molino,Medicion,2017,v,
+349,Pretura del Molino,Medicion,2017,o,
+350,Pretura del Molino,Medicion,2018,v,
+351,Pretura del Molino,Medicion,2018,o,
+352,Pretura del Molino,Medicion,2019,v,
+353,Pretura del Molino,Medicion,2019,o,
+354,Pretura del Molino,Medicion,2020,v,
+355,Pretura del Molino,Medicion,2020,o,5.58
+356,Pretura del Molino,Medicion,2021,v,
+357,Pretura del Molino,Medicion,2021,o,7.14
+358,Pretura del Molino,Medicion,2022,v,
+359,Pretura del Molino,Medicion,2022,o,8.41
+360,Ribera del Castanno,Medicion,2017,v,
+361,Ribera del Castanno,Medicion,2017,o,
+362,Ribera del Castanno,Medicion,2018,v,
+363,Ribera del Castanno,Medicion,2018,o,
+364,Ribera del Castanno,Medicion,2019,v,
+365,Ribera del Castanno,Medicion,2019,o,
+366,Ribera del Castanno,Medicion,2020,v,
+367,Ribera del Castanno,Medicion,2020,o,10.51
+368,Ribera del Castanno,Medicion,2021,v,
+369,Ribera del Castanno,Medicion,2021,o,20.89
+370,Ribera del Castanno,Medicion,2022,v,
+371,Ribera del Castanno,Medicion,2022,o,26.99
+372,Rubiales,Medicion,2017,v,
+373,Rubiales,Medicion,2017,o,
+374,Rubiales,Medicion,2018,v,
+375,Rubiales,Medicion,2018,o,
+376,Rubiales,Medicion,2019,v,
+377,Rubiales,Medicion,2019,o,
+378,Rubiales,Medicion,2020,v,
+379,Rubiales,Medicion,2020,o,74.74
+380,Rubiales,Medicion,2021,v,
+381,Rubiales,Medicion,2021,o,70.85
+382,Rubiales,Medicion,2022,v,47.49
+383,Rubiales,Medicion,2022,o,204.58
+384,San Marcos,Medicion,2017,v,
+385,San Marcos,Medicion,2017,o,
+386,San Marcos,Medicion,2018,v,
+387,San Marcos,Medicion,2018,o,
+388,San Marcos,Medicion,2019,v,
+389,San Marcos,Medicion,2019,o,
+390,San Marcos,Medicion,2020,v,
+391,San Marcos,Medicion,2020,o,6.3
+392,San Marcos,Medicion,2021,v,18.88
+393,San Marcos,Medicion,2021,o,27.73
+394,San Marcos,Medicion,2022,v,35.68
+395,San Marcos,Medicion,2022,o,27.47
+396,Santa Lucia,Medicion,2017,v,
+397,Santa Lucia,Medicion,2017,o,
+398,Santa Lucia,Medicion,2018,v,
+399,Santa Lucia,Medicion,2018,o,
+400,Santa Lucia,Medicion,2019,v,
+401,Santa Lucia,Medicion,2019,o,
+402,Santa Lucia,Medicion,2020,v,
+403,Santa Lucia,Medicion,2020,o,4.22
+404,Santa Lucia,Medicion,2021,v,
+405,Santa Lucia,Medicion,2021,o,10.39
+406,Santa Lucia,Medicion,2022,v,
+407,Santa Lucia,Medicion,2022,o,11.94
+408,Talavan,Medicion,2017,v,10.8
+409,Talavan,Medicion,2017,o,9.0
+410,Talavan,Medicion,2018,v,8.0
+411,Talavan,Medicion,2018,o,32.0
+412,Talavan,Medicion,2019,v,3.0
+413,Talavan,Medicion,2019,o,10.0
+414,Talavan,Medicion,2020,v,
+415,Talavan,Medicion,2020,o,11.67
+416,Talavan,Medicion,2021,v,42.95
+417,Talavan,Medicion,2021,o,35.06
+418,Talavan,Medicion,2022,v,72.17
+419,Talavan,Medicion,2022,o,45.02
+420,Tres Torres,Medicion,2017,v,
+421,Tres Torres,Medicion,2017,o,
+422,Tres Torres,Medicion,2018,v,
+423,Tres Torres,Medicion,2018,o,
+424,Tres Torres,Medicion,2019,v,
+425,Tres Torres,Medicion,2019,o,
+426,Tres Torres,Medicion,2020,v,
+427,Tres Torres,Medicion,2020,o,49.46
+428,Tres Torres,Medicion,2021,v,76.19
+429,Tres Torres,Medicion,2021,o,111.98
+430,Tres Torres,Medicion,2022,v,331.88
+431,Tres Torres,Medicion,2022,o,278.23
+432,Acebo,C2RCC,2017,v,1.3386892080307007
+433,Acebo,C2X,2017,v,3.2091639041900635
+434,Acebo,C2XC,2017,v,12.995726585388184
+435,Acebo,C2RCC,2022,o,1.505902886390686
+436,Acebo,C2X,2022,o,5.528172969818115
+437,Acebo,C2XC,2022,o,31.33470344543457
+438,Aguijon,C2RCC,2020,o,0.0
+439,Aguijon,C2X,2020,o,0.0
+440,Aguijon,C2XC,2020,o,0.0
+441,Aguijon,C2RCC,2021,o,3.4456896781921387
+442,Aguijon,C2X,2021,o,60.91061782836914
+443,Aguijon,C2XC,2021,o,278.2020263671875
+444,Aguijon,C2RCC,2022,o,6.963075160980225
+445,Aguijon,C2X,2022,o,148.8915252685547
+446,Aguijon,C2XC,2022,o,1187.5819091796875
+447,Aguijon,C2RCC,2022,v,0.9880107641220093
+448,Aguijon,C2X,2022,v,15.990415573120117
+449,Aguijon,C2XC,2022,v,139.96607971191406
+450,Alcuescar,C2RCC,2021,o,0.28171420097351074
+451,Alcuescar,C2X,2021,o,26.545072555541992
+452,Alcuescar,C2XC,2021,o,106.57090759277344
+453,Alcuescar,C2RCC,2021,v,1.2209820747375488
+454,Alcuescar,C2X,2021,v,31.399911880493164
+455,Alcuescar,C2XC,2021,v,84.51312255859375
+456,Aldea del Cano,C2RCC,2021,o,1.7639613151550293
+457,Aldea del Cano,C2X,2021,o,5.447904109954834
+458,Aldea del Cano,C2XC,2021,o,37.15081787109375
+459,Aldea del Cano,C2RCC,2021,v,13.719853401184082
+460,Aldea del Cano,C2X,2021,v,164.31427001953125
+461,Aldea del Cano,C2XC,2021,v,447.119140625
+462,Aldea del Cano,C2RCC,2022,o,3.8966643810272217
+463,Aldea del Cano,C2X,2022,o,57.123470306396484
+464,Aldea del Cano,C2XC,2022,o,283.91156005859375
+465,Aldea del Cano,C2RCC,2022,v,30.377567291259766
+466,Aldea del Cano,C2X,2022,v,108.2113037109375
+467,Aldea del Cano,C2XC,2022,v,318.43487548828125
+468,Aliseda,C2RCC,2021,o,1.082025408744812
+469,Aliseda,C2X,2021,o,7.29356050491333
+470,Aliseda,C2XC,2021,o,19.003501892089844
+471,Aliseda,C2RCC,2022,o,1.5751005411148071
+472,Aliseda,C2X,2022,o,16.542194366455078
+473,Aliseda,C2XC,2022,o,48.64203643798828
+474,Alpotrel,C2RCC,2020,o,6.349995136260986
+475,Alpotrel,C2X,2020,o,20.773195266723633
+476,Alpotrel,C2XC,2020,o,113.17938995361328
+477,Alpotrel,C2RCC,2021,o,1.026254653930664
+478,Alpotrel,C2X,2021,o,3.755922794342041
+479,Alpotrel,C2XC,2021,o,36.79634475708008
+480,Alpotrel,C2RCC,2022,o,5.365955352783203
+481,Alpotrel,C2X,2022,o,12.679046630859375
+482,Alpotrel,C2XC,2022,o,64.1007080078125
+483,Arrocerezal,C2RCC,2021,o,
+484,Arrocerezal,C2X,2021,o,
+485,Arrocerezal,C2XC,2021,o,
+486,Arrocerezal,C2RCC,2022,o,1.4650702476501465
+487,Arrocerezal,C2X,2022,o,4.020473957061768
+488,Arrocerezal,C2XC,2022,o,23.762046813964844
+489,Brozas,C2RCC,2020,o,14.394902229309082
+490,Brozas,C2X,2020,o,8.451397895812988
+491,Brozas,C2XC,2020,o,47.4249267578125
+492,Brozas,C2RCC,2021,o,47.99076461791992
+493,Brozas,C2X,2021,o,218.66009521484375
+494,Brozas,C2XC,2021,o,375.32440185546875
+495,Brozas,C2RCC,2021,v,23.89944076538086
+496,Brozas,C2X,2021,v,69.26309204101562
+497,Brozas,C2XC,2021,v,130.84268188476562
+498,Brozas,C2RCC,2022,v,22.717166900634766
+499,Brozas,C2X,2022,v,48.15558624267578
+500,Brozas,C2XC,2022,v,120.25440979003906
+501,Burguillos del Cerro,C2RCC,2020,o,7.301900863647461
+502,Burguillos del Cerro,C2X,2020,o,24.52591323852539
+503,Burguillos del Cerro,C2XC,2020,o,58.69896697998047
+504,Burguillos del Cerro,C2RCC,2021,v,27.731903076171875
+505,Burguillos del Cerro,C2X,2021,v,84.81134033203125
+506,Burguillos del Cerro,C2XC,2021,v,242.01678466796875
+507,Burguillos del Cerro,C2RCC,2022,o,1.5513571500778198
+508,Burguillos del Cerro,C2X,2022,o,834.29833984375
+509,Burguillos del Cerro,C2XC,2022,o,2306.1748046875
+510,Burguillos del Cerro,C2RCC,2022,v,16.519454956054688
+511,Burguillos del Cerro,C2X,2022,v,49.9608154296875
+512,Burguillos del Cerro,C2XC,2022,v,140.23446655273438
+513,Cantalgallo,C2RCC,2020,o,2.1449053287506104
+514,Cantalgallo,C2X,2020,o,2.99458384513855
+515,Cantalgallo,C2XC,2020,o,12.098077774047852
+516,El Santo,C2RCC,2020,o,2.8579249382019043
+517,El Santo,C2X,2020,o,1.987450122833252
+518,El Santo,C2XC,2020,o,3.8956973552703857
+519,El Santo,C2RCC,2021,o,2.7440285682678223
+520,El Santo,C2X,2021,o,4.990400791168213
+521,El Santo,C2XC,2021,o,11.64072036743164
+522,El Santo,C2RCC,2022,o,11.861696243286133
+523,El Santo,C2X,2022,o,8.592161178588867
+524,El Santo,C2XC,2022,o,83.43211364746094
+525,Garciaz,C2RCC,2021,o,0.26926189661026
+526,Garciaz,C2X,2021,o,0.3560675382614136
+527,Garciaz,C2XC,2021,o,1.2919267416000366
+528,Garganta del Obispo,C2RCC,2022,o,0.012563723139464855
+529,Garganta del Obispo,C2X,2022,o,0.9871946573257446
+530,Garganta del Obispo,C2XC,2022,o,2.9782118797302246
+531,Hervas,C2RCC,2021,o,1.2310588359832764
+532,Hervas,C2X,2021,o,14.943724632263184
+533,Hervas,C2XC,2021,o,45.032447814941406
+534,Jaime Ozores,C2RCC,2017,o,11.46277904510498
+535,Jaime Ozores,C2X,2017,o,137.0198516845703
+536,Jaime Ozores,C2XC,2017,o,676.389892578125
+537,Jaime Ozores,C2RCC,2017,v,10.134623527526855
+538,Jaime Ozores,C2X,2017,v,46.1268196105957
+539,Jaime Ozores,C2XC,2017,v,88.23625183105469
+540,Jaime Ozores,C2RCC,2018,o,0.5486845970153809
+541,Jaime Ozores,C2X,2018,o,73.32759094238281
+542,Jaime Ozores,C2XC,2018,o,395.0482482910156
+543,Jaime Ozores,C2RCC,2018,v,8.088788986206055
+544,Jaime Ozores,C2X,2018,v,47.03395080566406
+545,Jaime Ozores,C2XC,2018,v,67.61289978027344
+546,Jaime Ozores,C2RCC,2019,o,0.0
+547,Jaime Ozores,C2X,2019,o,0.0
+548,Jaime Ozores,C2XC,2019,o,0.0
+549,Jaime Ozores,C2RCC,2019,v,3.819243907928467
+550,Jaime Ozores,C2X,2019,v,17.51523208618164
+551,Jaime Ozores,C2XC,2019,v,17.51523208618164
+552,Jaime Ozores,C2RCC,2020,o,5.179347038269043
+553,Jaime Ozores,C2X,2020,o,12.714144706726074
+554,Jaime Ozores,C2XC,2020,o,53.76740264892578
+555,Jaime Ozores,C2RCC,2021,v,1.4180121421813965
+556,Jaime Ozores,C2X,2021,v,117.10720825195312
+557,Jaime Ozores,C2XC,2021,v,349.5035400390625
+558,Jaime Ozores,C2RCC,2022,o,106.11274719238281
+559,Jaime Ozores,C2X,2022,o,364.54974365234375
+560,Jaime Ozores,C2XC,2022,o,562.4677124023438
+561,Jaime Ozores,C2RCC,2022,v,27.814577102661133
+562,Jaime Ozores,C2X,2022,v,194.0869140625
+563,Jaime Ozores,C2XC,2022,v,423.0153503417969
+564,Llerena,C2RCC,2020,o,10.670743942260742
+565,Llerena,C2X,2020,o,14.917381286621094
+566,Llerena,C2XC,2020,o,43.130149841308594
+567,Llerena,C2RCC,2021,o,13.786361694335938
+568,Llerena,C2X,2021,o,6.74151611328125
+569,Llerena,C2XC,2021,o,38.274715423583984
+570,Llerena,C2RCC,2022,o,42.01285171508789
+571,Llerena,C2X,2022,o,352.9129943847656
+572,Llerena,C2XC,2022,o,984.410400390625
+573,Llerena,C2RCC,2022,v,17.469526290893555
+574,Llerena,C2X,2022,v,22.041606903076172
+575,Llerena,C2XC,2022,v,38.29244613647461
+576,Los Huertos,C2RCC,2020,o,3.906155586242676
+577,Los Huertos,C2X,2020,o,12.760234832763672
+578,Los Huertos,C2XC,2020,o,66.88452911376953
+579,Los Huertos,C2RCC,2021,v,3.1912145614624023
+580,Los Huertos,C2X,2021,v,13.294320106506348
+581,Los Huertos,C2XC,2021,v,76.21170043945312
+582,Madronnera,C2RCC,2021,o,2.6723504066467285
+583,Madronnera,C2X,2021,o,3.335240364074707
+584,Madronnera,C2XC,2021,o,9.455415725708008
+585,Madronnera,C2RCC,2021,v,0.15631845593452454
+586,Madronnera,C2X,2021,v,1.8243862390518188
+587,Madronnera,C2XC,2021,v,3.2309839725494385
+588,Majadillas,C2RCC,2020,o,0.35072124004364014
+589,Majadillas,C2X,2020,o,3.209343671798706
+590,Majadillas,C2XC,2020,o,28.438913345336914
+591,Majadillas,C2RCC,2021,o,0.03741525113582611
+592,Majadillas,C2X,2021,o,1.799898624420166
+593,Majadillas,C2XC,2021,o,13.970349311828613
+594,Majadillas,C2RCC,2022,o,0.9431866407394409
+595,Majadillas,C2X,2022,o,8.927698135375977
+596,Majadillas,C2XC,2022,o,120.18326568603516
+597,Majarrobledo,C2RCC,2021,o,0.3400849401950836
+598,Majarrobledo,C2X,2021,o,1.0643197298049927
+599,Majarrobledo,C2XC,2021,o,4.217966079711914
+600,Membrio,C2RCC,2021,o,0.0
+601,Membrio,C2X,2021,o,0.0
+602,Membrio,C2XC,2021,o,0.0
+603,Membrio,C2RCC,2022,o,0.0
+604,Membrio,C2X,2022,o,0.0
+605,Membrio,C2XC,2022,o,0.0
+606,Navarredonda,C2RCC,2021,o,3.4089183807373047
+607,Navarredonda,C2X,2021,o,83.33604431152344
+608,Navarredonda,C2XC,2021,o,1283.21875
+609,Navarredonda,C2RCC,2021,v,0.7114993929862976
+610,Navarredonda,C2X,2021,v,94.47490692138672
+611,Navarredonda,C2XC,2021,v,1387.6705322265625
+612,Navas del Madronno,C2RCC,2020,o,12.450044631958008
+613,Navas del Madronno,C2X,2020,o,13.984566688537598
+614,Navas del Madronno,C2XC,2020,o,13.984566688537598
+615,Navas del Madronno,C2RCC,2021,v,3.8610646724700928
+616,Navas del Madronno,C2X,2021,v,1.8849167823791504
+617,Navas del Madronno,C2XC,2021,v,4.392266750335693
+618,Navas del Madronno,C2RCC,2022,v,2.4249629974365234
+619,Navas del Madronno,C2X,2022,v,19.27033233642578
+620,Navas del Madronno,C2XC,2022,v,99.03728485107422
+621,Nogales,C2RCC,2020,o,0.0
+622,Nogales,C2X,2020,o,0.0
+623,Nogales,C2XC,2020,o,0.0
+624,Nogales,C2RCC,2021,o,9.541558265686035
+625,Nogales,C2X,2021,o,11.331196784973145
+626,Nogales,C2XC,2021,o,80.52052307128906
+627,Nogales,C2RCC,2022,o,6.578283309936523
+628,Nogales,C2X,2022,o,58.5711784362793
+629,Nogales,C2XC,2022,o,172.2703857421875
+630,Nogales,C2RCC,2022,v,12.1728515625
+631,Nogales,C2X,2022,v,232.08319091796875
+632,Nogales,C2XC,2022,v,232.08319091796875
+633,Palomero,C2RCC,2020,o,0.8695403933525085
+634,Palomero,C2X,2020,o,1.145886778831482
+635,Palomero,C2XC,2020,o,4.565487384796143
+636,Palomero,C2RCC,2021,o,2.2509007453918457
+637,Palomero,C2X,2021,o,13.808635711669922
+638,Palomero,C2XC,2021,o,43.573707580566406
+639,Pretura del Molino,C2RCC,2020,o,0.41308873891830444
+640,Pretura del Molino,C2X,2020,o,0.5020655989646912
+641,Pretura del Molino,C2XC,2020,o,4.696795463562012
+642,Pretura del Molino,C2RCC,2021,o,0.281311959028244
+643,Pretura del Molino,C2X,2021,o,3.047886371612549
+644,Pretura del Molino,C2XC,2021,o,24.13399887084961
+645,Pretura del Molino,C2RCC,2022,o,1.056398630142212
+646,Pretura del Molino,C2X,2022,o,2.347471237182617
+647,Pretura del Molino,C2XC,2022,o,28.38449478149414
+648,Ribera del Castanno,C2RCC,2021,o,0.23666715621948242
+649,Ribera del Castanno,C2X,2021,o,6.18344783782959
+650,Ribera del Castanno,C2XC,2021,o,73.1826171875
+651,Rubiales,C2RCC,2021,o,2.8061461448669434
+652,Rubiales,C2X,2021,o,209.68325805664062
+653,Rubiales,C2XC,2021,o,572.8150634765625
+654,Rubiales,C2RCC,2022,o,13.477763175964355
+655,Rubiales,C2X,2022,o,237.9835205078125
+656,Rubiales,C2XC,2022,o,1277.1690673828125
+657,Rubiales,C2RCC,2022,v,2.4483046531677246
+658,Rubiales,C2X,2022,v,48.417564392089844
+659,Rubiales,C2XC,2022,v,269.1075744628906
+660,San Marcos,C2RCC,2020,o,4.625505447387695
+661,San Marcos,C2X,2020,o,1.3395323753356934
+662,San Marcos,C2XC,2020,o,3.1437129974365234
+663,San Marcos,C2RCC,2021,o,0.0
+664,San Marcos,C2X,2021,o,0.0
+665,San Marcos,C2XC,2021,o,0.0
+666,San Marcos,C2RCC,2021,v,0.0
+667,San Marcos,C2X,2021,v,0.0
+668,San Marcos,C2XC,2021,v,0.0
+669,San Marcos,C2RCC,2022,o,0.0
+670,San Marcos,C2X,2022,o,0.0
+671,San Marcos,C2XC,2022,o,0.0
+672,San Marcos,C2RCC,2022,v,0.0
+673,San Marcos,C2X,2022,v,0.0
+674,San Marcos,C2XC,2022,v,0.0
+675,Santa Lucia,C2RCC,2020,o,1.129823923110962
+676,Santa Lucia,C2X,2020,o,1.1439987421035767
+677,Santa Lucia,C2XC,2020,o,9.858283996582031
+678,Santa Lucia,C2RCC,2021,o,1.4964168071746826
+679,Santa Lucia,C2X,2021,o,3.1088356971740723
+680,Santa Lucia,C2XC,2021,o,14.737058639526367
+681,Talavan,C2RCC,2017,o,1.591683268547058
+682,Talavan,C2X,2017,o,8.478178024291992
+683,Talavan,C2XC,2017,o,26.811649322509766
+684,Talavan,C2RCC,2017,v,3.7281007766723633
+685,Talavan,C2X,2017,v,4.795352458953857
+686,Talavan,C2XC,2017,v,8.295634269714355
+687,Talavan,C2RCC,2018,o,13.943220138549805
+688,Talavan,C2X,2018,o,16.687328338623047
+689,Talavan,C2XC,2018,o,89.06181335449219
+690,Talavan,C2RCC,2018,v,2.561530113220215
+691,Talavan,C2X,2018,v,5.666335582733154
+692,Talavan,C2XC,2018,v,18.543136596679688
+693,Talavan,C2RCC,2019,o,0.7026493549346924
+694,Talavan,C2X,2019,o,15.832703590393066
+695,Talavan,C2XC,2019,o,18.01515007019043
+696,Talavan,C2RCC,2019,v,0.6268237233161926
+697,Talavan,C2X,2019,v,3.364082098007202
+698,Talavan,C2XC,2019,v,10.066896438598633
+699,Talavan,C2RCC,2021,o,13.224784851074219
+700,Talavan,C2X,2021,o,12.857309341430664
+701,Talavan,C2XC,2021,o,30.97084617614746
+702,Talavan,C2RCC,2021,v,2.1815249919891357
+703,Talavan,C2X,2021,v,18.1099853515625
+704,Talavan,C2XC,2021,v,40.167091369628906
+705,Talavan,C2RCC,2022,o,19.377872467041016
+706,Talavan,C2X,2022,o,34.29741668701172
+707,Talavan,C2XC,2022,o,72.87107849121094
+708,Talavan,C2RCC,2022,v,16.865327835083008
+709,Talavan,C2X,2022,v,58.140159606933594
+710,Talavan,C2XC,2022,v,191.32406616210938

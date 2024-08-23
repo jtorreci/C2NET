@@ -1,0 +1,433 @@
+fecha,Embalse,Estado,Cmax,Cmea2,Cmean,Cmin,Cmin2,Medicion
+2017-06-01,Acebo,Mesotrophic,4.012206077575684,1.0700169801712036,1.0700169801712036,0.0,0.0,3.0
+2017-06-01,Aguijon,Hypertrophic,,,,,,
+2017-06-01,Alcuescar,Hypertrophic,,,,,,
+2017-06-01,Aldea del Cano,Hypertrophic,,,,,,
+2017-06-01,Aliseda,Eutrophic,,,,,,
+2017-06-01,Alpotrel,Eutrophic,,,,,,
+2017-06-01,Arrocerezal,Eutrophic,,,,,,
+2017-06-01,Brozas,Hypertrophic,,,,,,
+2017-06-01,Burguillos del Cerro,Hypertrophic,,,,,,
+2017-06-01,Cantalgallo,Eutrophic,,,,,,
+2017-06-01,Carrascalejo,Eutrophic,,,,,,
+2017-06-01,El Santo,Hypertrophic,,,,,,
+2017-06-01,Garciaz,Eutrophic,,,,,,
+2017-06-01,Garganta del Obispo,Hypertrophic,,,,,,
+2017-06-01,Guadalupe,Eutrophic,,,,,,
+2017-06-01,Hervas,Eutrophic,,,,,,
+2017-06-01,Jaime Ozores,Hypertrophic,24.721939086914062,16.30866050720215,12.804093360900879,0.0,5.469130992889404,18.0
+2017-06-01,Llerena,Hypertrophic,,,,,,
+2017-06-01,Los Angeles,Hypertrophic,,,,,,
+2017-06-01,Los Huertos,Hypertrophic,,,,,,
+2017-06-01,Madronnera,Eutrophic,,,,,,
+2017-06-01,Majadillas,Eutrophic,,,,,,
+2017-06-01,Majarrobledo,Mesotrophic,,,,,,
+2017-06-01,Membrio,Hypertrophic,,,,,,
+2017-06-01,Navarredonda,Hypertrophic,,,,,,
+2017-06-01,Navas del Madronno,Hypertrophic,,,,,,
+2017-06-01,Nogales,Hypertrophic,,,,,,
+2017-06-01,Palomero,Eutrophic,,,,,,
+2017-06-01,Pretura del Molino,Mesotrophic,,,,,,
+2017-06-01,Ribera del Castanno,Eutrophic,,,,,,
+2017-06-01,Rubiales,Hypertrophic,,,,,,
+2017-06-01,San Marcos,Eutrophic,,,,,,
+2017-06-01,Santa Lucia,Eutrophic,,,,,,
+2017-06-01,Talavan,Hypertrophic,14.996235847473145,7.313719749450684,5.598155498504639,0.0,3.686781883239746,10.8
+2017-06-01,Tres Torres,Hypertrophic,,,,,,
+2017-06-01,la Pesga,Eutrophic,,,,,,
+2017-11-01,Acebo,Mesotrophic,,,,,,
+2017-11-01,Aguijon,Hypertrophic,,,,,,
+2017-11-01,Alcuescar,Hypertrophic,,,,,,
+2017-11-01,Aldea del Cano,Hypertrophic,,,,,,
+2017-11-01,Aliseda,Eutrophic,,,,,,
+2017-11-01,Alpotrel,Eutrophic,,,,,,
+2017-11-01,Arrocerezal,Eutrophic,,,,,,
+2017-11-01,Brozas,Hypertrophic,,,,,,
+2017-11-01,Burguillos del Cerro,Hypertrophic,,,,,,
+2017-11-01,Cantalgallo,Eutrophic,,,,,,
+2017-11-01,Carrascalejo,Eutrophic,,,,,,
+2017-11-01,El Santo,Hypertrophic,,,,,,
+2017-11-01,Garciaz,Eutrophic,,,,,,
+2017-11-01,Garganta del Obispo,Hypertrophic,,,,,,
+2017-11-01,Guadalupe,Eutrophic,,,,,,
+2017-11-01,Hervas,Eutrophic,,,,,,
+2017-11-01,Jaime Ozores,Hypertrophic,98.39067077636719,18.688594818115234,18.688594818115234,0.0,0.0,74.0
+2017-11-01,Llerena,Hypertrophic,,,,,,
+2017-11-01,Los Angeles,Hypertrophic,,,,,,
+2017-11-01,Los Huertos,Hypertrophic,,,,,,
+2017-11-01,Madronnera,Eutrophic,,,,,,
+2017-11-01,Majadillas,Eutrophic,,,,,,
+2017-11-01,Majarrobledo,Mesotrophic,,,,,,
+2017-11-01,Membrio,Hypertrophic,,,,,,
+2017-11-01,Navarredonda,Hypertrophic,,,,,,
+2017-11-01,Navas del Madronno,Hypertrophic,,,,,,
+2017-11-01,Nogales,Hypertrophic,,,,,,
+2017-11-01,Palomero,Eutrophic,,,,,,
+2017-11-01,Pretura del Molino,Mesotrophic,,,,,,
+2017-11-01,Ribera del Castanno,Eutrophic,,,,,,
+2017-11-01,Rubiales,Hypertrophic,,,,,,
+2017-11-01,San Marcos,Eutrophic,,,,,,
+2017-11-01,Santa Lucia,Eutrophic,,,,,,
+2017-11-01,Talavan,Hypertrophic,11.583481788635254,6.026339054107666,3.5753602981567383,0.0,1.060215711593628,9.0
+2017-11-01,Tres Torres,Hypertrophic,,,,,,
+2017-11-01,la Pesga,Eutrophic,,,,,,
+2018-06-01,Acebo,Mesotrophic,,,,,,
+2018-06-01,Aguijon,Hypertrophic,,,,,,
+2018-06-01,Alcuescar,Hypertrophic,,,,,,
+2018-06-01,Aldea del Cano,Hypertrophic,,,,,,
+2018-06-01,Aliseda,Eutrophic,,,,,,
+2018-06-01,Alpotrel,Eutrophic,,,,,,
+2018-06-01,Arrocerezal,Eutrophic,,,,,,
+2018-06-01,Brozas,Hypertrophic,,,,,,
+2018-06-01,Burguillos del Cerro,Hypertrophic,,,,,,
+2018-06-01,Cantalgallo,Eutrophic,,,,,,
+2018-06-01,Carrascalejo,Eutrophic,,,,,,
+2018-06-01,El Santo,Hypertrophic,,,,,,
+2018-06-01,Garciaz,Eutrophic,,,,,,
+2018-06-01,Garganta del Obispo,Hypertrophic,,,,,,
+2018-06-01,Guadalupe,Eutrophic,,,,,,
+2018-06-01,Hervas,Eutrophic,,,,,,
+2018-06-01,Jaime Ozores,Hypertrophic,14.62491226196289,11.86074161529541,9.871587753295898,0.0,5.560604572296143,14.0
+2018-06-01,Llerena,Hypertrophic,,,,,,
+2018-06-01,Los Angeles,Hypertrophic,,,,,,
+2018-06-01,Los Huertos,Hypertrophic,,,,,,
+2018-06-01,Madronnera,Eutrophic,,,,,,
+2018-06-01,Majadillas,Eutrophic,,,,,,
+2018-06-01,Majarrobledo,Mesotrophic,,,,,,
+2018-06-01,Membrio,Hypertrophic,,,,,,
+2018-06-01,Navarredonda,Hypertrophic,,,,,,
+2018-06-01,Navas del Madronno,Hypertrophic,,,,,,
+2018-06-01,Nogales,Hypertrophic,,,,,,
+2018-06-01,Palomero,Eutrophic,,,,,,
+2018-06-01,Pretura del Molino,Mesotrophic,,,,,,
+2018-06-01,Ribera del Castanno,Eutrophic,,,,,,
+2018-06-01,Rubiales,Hypertrophic,,,,,,
+2018-06-01,San Marcos,Eutrophic,,,,,,
+2018-06-01,Santa Lucia,Eutrophic,,,,,,
+2018-06-01,Talavan,Hypertrophic,10.151586532592773,7.36848783493042,4.9124884605407715,0.0,3.4618618488311768,8.0
+2018-06-01,Tres Torres,Hypertrophic,,,,,,
+2018-06-01,la Pesga,Eutrophic,,,,,,
+2018-11-01,Acebo,Mesotrophic,,,,,,
+2018-11-01,Aguijon,Hypertrophic,,,,,,
+2018-11-01,Alcuescar,Hypertrophic,,,,,,
+2018-11-01,Aldea del Cano,Hypertrophic,,,,,,
+2018-11-01,Aliseda,Eutrophic,,,,,,
+2018-11-01,Alpotrel,Eutrophic,,,,,,
+2018-11-01,Arrocerezal,Eutrophic,,,,,,
+2018-11-01,Brozas,Hypertrophic,,,,,,
+2018-11-01,Burguillos del Cerro,Hypertrophic,,,,,,
+2018-11-01,Cantalgallo,Eutrophic,,,,,,
+2018-11-01,Carrascalejo,Eutrophic,,,,,,
+2018-11-01,El Santo,Hypertrophic,,,,,,
+2018-11-01,Garciaz,Eutrophic,,,,,,
+2018-11-01,Garganta del Obispo,Hypertrophic,,,,,,
+2018-11-01,Guadalupe,Eutrophic,,,,,,
+2018-11-01,Hervas,Eutrophic,,,,,,
+2018-11-01,Jaime Ozores,Hypertrophic,31.54043197631836,0.48829367756843567,0.48829367756843567,0.0,0.0,39.0
+2018-11-01,Llerena,Hypertrophic,,,,,,
+2018-11-01,Los Angeles,Hypertrophic,,,,,,
+2018-11-01,Los Huertos,Hypertrophic,,,,,,
+2018-11-01,Madronnera,Eutrophic,,,,,,
+2018-11-01,Majadillas,Eutrophic,,,,,,
+2018-11-01,Majarrobledo,Mesotrophic,,,,,,
+2018-11-01,Membrio,Hypertrophic,,,,,,
+2018-11-01,Navarredonda,Hypertrophic,,,,,,
+2018-11-01,Navas del Madronno,Hypertrophic,,,,,,
+2018-11-01,Nogales,Hypertrophic,,,,,,
+2018-11-01,Palomero,Eutrophic,,,,,,
+2018-11-01,Pretura del Molino,Mesotrophic,,,,,,
+2018-11-01,Ribera del Castanno,Eutrophic,,,,,,
+2018-11-01,Rubiales,Hypertrophic,,,,,,
+2018-11-01,San Marcos,Eutrophic,,,,,,
+2018-11-01,Santa Lucia,Eutrophic,,,,,,
+2018-11-01,Talavan,Hypertrophic,49.253761291503906,28.74437141418457,21.67402458190918,0.0,8.879290580749512,32.0
+2018-11-01,Tres Torres,Hypertrophic,,,,,,
+2018-11-01,la Pesga,Eutrophic,,,,,,
+2019-06-01,Acebo,Mesotrophic,,,,,,
+2019-06-01,Aguijon,Hypertrophic,,,,,,
+2019-06-01,Alcuescar,Hypertrophic,,,,,,
+2019-06-01,Aldea del Cano,Hypertrophic,,,,,,
+2019-06-01,Aliseda,Eutrophic,,,,,,
+2019-06-01,Alpotrel,Eutrophic,,,,,,
+2019-06-01,Arrocerezal,Eutrophic,,,,,,
+2019-06-01,Brozas,Hypertrophic,,,,,,
+2019-06-01,Burguillos del Cerro,Hypertrophic,,,,,,
+2019-06-01,Cantalgallo,Eutrophic,,,,,,
+2019-06-01,Carrascalejo,Eutrophic,,,,,,
+2019-06-01,El Santo,Hypertrophic,,,,,,
+2019-06-01,Garciaz,Eutrophic,,,,,,
+2019-06-01,Garganta del Obispo,Hypertrophic,,,,,,
+2019-06-01,Guadalupe,Eutrophic,,,,,,
+2019-06-01,Hervas,Eutrophic,,,,,,
+2019-06-01,Jaime Ozores,Hypertrophic,13.324748992919922,6.342263698577881,4.710285186767578,0.0,0.6550436019897461,14.56
+2019-06-01,Llerena,Hypertrophic,,,,,,
+2019-06-01,Los Angeles,Hypertrophic,,,,,,
+2019-06-01,Los Huertos,Hypertrophic,,,,,,
+2019-06-01,Madronnera,Eutrophic,,,,,,
+2019-06-01,Majadillas,Eutrophic,,,,,,
+2019-06-01,Majarrobledo,Mesotrophic,,,,,,
+2019-06-01,Membrio,Hypertrophic,,,,,,
+2019-06-01,Navarredonda,Hypertrophic,,,,,,
+2019-06-01,Navas del Madronno,Hypertrophic,,,,,,
+2019-06-01,Nogales,Hypertrophic,,,,,,
+2019-06-01,Palomero,Eutrophic,,,,,,
+2019-06-01,Pretura del Molino,Mesotrophic,,,,,,
+2019-06-01,Ribera del Castanno,Eutrophic,,,,,,
+2019-06-01,Rubiales,Hypertrophic,,,,,,
+2019-06-01,San Marcos,Eutrophic,,,,,,
+2019-06-01,Santa Lucia,Eutrophic,,,,,,
+2019-06-01,Talavan,Hypertrophic,3.7570037841796875,2.3491475582122803,1.569230556488037,0.0,0.5766682624816895,3.0
+2019-06-01,Tres Torres,Hypertrophic,,,,,,
+2019-06-01,la Pesga,Eutrophic,,,,,,
+2019-11-01,Acebo,Mesotrophic,,,,,,
+2019-11-01,Aguijon,Hypertrophic,,,,,,
+2019-11-01,Alcuescar,Hypertrophic,,,,,,
+2019-11-01,Aldea del Cano,Hypertrophic,,,,,,
+2019-11-01,Aliseda,Eutrophic,,,,,,
+2019-11-01,Alpotrel,Eutrophic,,,,,,
+2019-11-01,Arrocerezal,Eutrophic,,,,,,
+2019-11-01,Brozas,Hypertrophic,,,,,,
+2019-11-01,Burguillos del Cerro,Hypertrophic,,,,,,
+2019-11-01,Cantalgallo,Eutrophic,,,,,,
+2019-11-01,Carrascalejo,Eutrophic,,,,,,
+2019-11-01,El Santo,Hypertrophic,,,,,,
+2019-11-01,Garciaz,Eutrophic,,,,,,
+2019-11-01,Garganta del Obispo,Hypertrophic,,,,,,
+2019-11-01,Guadalupe,Eutrophic,,,,,,
+2019-11-01,Hervas,Eutrophic,,,,,,
+2019-11-01,Jaime Ozores,Hypertrophic,0.0,,0.0,0.0,,200.0
+2019-11-01,Llerena,Hypertrophic,,,,,,
+2019-11-01,Los Angeles,Hypertrophic,,,,,,
+2019-11-01,Los Huertos,Hypertrophic,,,,,,
+2019-11-01,Madronnera,Eutrophic,,,,,,
+2019-11-01,Majadillas,Eutrophic,,,,,,
+2019-11-01,Majarrobledo,Mesotrophic,,,,,,
+2019-11-01,Membrio,Hypertrophic,,,,,,
+2019-11-01,Navarredonda,Hypertrophic,,,,,,
+2019-11-01,Navas del Madronno,Hypertrophic,,,,,,
+2019-11-01,Nogales,Hypertrophic,,,,,,
+2019-11-01,Palomero,Eutrophic,,,,,,
+2019-11-01,Pretura del Molino,Mesotrophic,,,,,,
+2019-11-01,Ribera del Castanno,Eutrophic,,,,,,
+2019-11-01,Rubiales,Hypertrophic,,,,,,
+2019-11-01,San Marcos,Eutrophic,,,,,,
+2019-11-01,Santa Lucia,Eutrophic,,,,,,
+2019-11-01,Talavan,Hypertrophic,10.094780921936035,2.1190145015716553,2.1190145015716553,0.0,0.0,10.0
+2019-11-01,Tres Torres,Hypertrophic,,,,,,
+2019-11-01,la Pesga,Eutrophic,,,,,,
+2020-06-01,Acebo,Mesotrophic,,,,,,
+2020-06-01,Aguijon,Hypertrophic,,,,,,
+2020-06-01,Alcuescar,Hypertrophic,,,,,,
+2020-06-01,Aldea del Cano,Hypertrophic,,,,,,
+2020-06-01,Aliseda,Eutrophic,,,,,,
+2020-06-01,Alpotrel,Eutrophic,,,,,,
+2020-06-01,Arrocerezal,Eutrophic,,,,,,
+2020-06-01,Brozas,Hypertrophic,,,,,,
+2020-06-01,Burguillos del Cerro,Hypertrophic,,,,,,
+2020-06-01,Cantalgallo,Eutrophic,,,,,,
+2020-06-01,Carrascalejo,Eutrophic,,,,,,
+2020-06-01,El Santo,Hypertrophic,,,,,,
+2020-06-01,Garciaz,Eutrophic,,,,,,
+2020-06-01,Garganta del Obispo,Hypertrophic,,,,,,
+2020-06-01,Guadalupe,Eutrophic,,,,,,
+2020-06-01,Hervas,Eutrophic,,,,,,
+2020-06-01,Jaime Ozores,Hypertrophic,,,,,,
+2020-06-01,Llerena,Hypertrophic,,,,,,
+2020-06-01,Los Angeles,Hypertrophic,,,,,,
+2020-06-01,Los Huertos,Hypertrophic,,,,,,
+2020-06-01,Madronnera,Eutrophic,,,,,,
+2020-06-01,Majadillas,Eutrophic,,,,,,
+2020-06-01,Majarrobledo,Mesotrophic,,,,,,
+2020-06-01,Membrio,Hypertrophic,,,,,,
+2020-06-01,Navarredonda,Hypertrophic,,,,,,
+2020-06-01,Navas del Madronno,Hypertrophic,,,,,,
+2020-06-01,Nogales,Hypertrophic,,,,,,
+2020-06-01,Palomero,Eutrophic,,,,,,
+2020-06-01,Pretura del Molino,Mesotrophic,,,,,,
+2020-06-01,Ribera del Castanno,Eutrophic,,,,,,
+2020-06-01,Rubiales,Hypertrophic,,,,,,
+2020-06-01,San Marcos,Eutrophic,,,,,,
+2020-06-01,Santa Lucia,Eutrophic,,,,,,
+2020-06-01,Talavan,Hypertrophic,,,,,,
+2020-06-01,Tres Torres,Hypertrophic,,,,,,
+2020-06-01,la Pesga,Eutrophic,,,,,,
+2020-11-01,Acebo,Mesotrophic,,,,,,2.5
+2020-11-01,Aguijon,Hypertrophic,0.0,,0.0,0.0,,5.27
+2020-11-01,Alcuescar,Hypertrophic,,,,,,16.3
+2020-11-01,Aldea del Cano,Hypertrophic,,,,,,131.6
+2020-11-01,Aliseda,Eutrophic,,,,,,12.65
+2020-11-01,Alpotrel,Eutrophic,38.133949279785156,14.962129592895508,12.007925987243652,0.0,4.309055805206299,25.0
+2020-11-01,Arrocerezal,Eutrophic,,,,,,0.73
+2020-11-01,Brozas,Hypertrophic,64.2960205078125,33.098876953125,25.416765213012695,0.0,12.39384937286377,36.57
+2020-11-01,Burguillos del Cerro,Hypertrophic,18.964670181274414,13.076207160949707,9.239180564880371,0.0,3.366041660308838,14.88
+2020-11-01,Cantalgallo,Eutrophic,12.584478378295898,4.610508441925049,3.0788352489471436,0.0,1.7389267683029175,8.2
+2020-11-01,Carrascalejo,Eutrophic,,,,,,7.3
+2020-11-01,El Santo,Hypertrophic,13.987415313720703,3.7996928691864014,3.7996928691864014,0.0,0.0,9.77
+2020-11-01,Garciaz,Eutrophic,,,,,,5.53
+2020-11-01,Garganta del Obispo,Hypertrophic,,,,,,0.97
+2020-11-01,Guadalupe,Eutrophic,,,,,,7.29
+2020-11-01,Hervas,Eutrophic,,,,,,8.42
+2020-11-01,Jaime Ozores,Hypertrophic,37.340457916259766,10.119648933410645,10.119648933410645,0.0,0.0,35.68
+2020-11-01,Llerena,Hypertrophic,41.00526809692383,14.258889198303223,12.514070510864258,0.007264907006174326,4.222987174987793,44.85
+2020-11-01,Los Angeles,Hypertrophic,,,,,,3.99
+2020-11-01,Los Huertos,Hypertrophic,25.47312355041504,17.732988357543945,10.519137382507324,0.0,2.0990591049194336,32.54
+2020-11-01,Madronnera,Eutrophic,,,,,,19.76
+2020-11-01,Majadillas,Eutrophic,3.154921293258667,0.4007827341556549,0.4007827341556549,0.0,0.0,5.16
+2020-11-01,Majarrobledo,Mesotrophic,,,,,,0.4
+2020-11-01,Membrio,Hypertrophic,,,,,,19.53
+2020-11-01,Navarredonda,Hypertrophic,,,,,,101.63
+2020-11-01,Navas del Madronno,Hypertrophic,50.32402801513672,26.122278213500977,20.649633407592773,0.0,6.816721439361572,31.19
+2020-11-01,Nogales,Hypertrophic,0.0,,0.0,0.0,,37.27
+2020-11-01,Palomero,Eutrophic,4.160989284515381,2.8217477798461914,1.8173161745071411,0.0,0.26289626955986023,2.35
+2020-11-01,Pretura del Molino,Mesotrophic,5.770199298858643,0.5741366147994995,0.5741366147994995,0.0,0.0,5.58
+2020-11-01,Ribera del Castanno,Eutrophic,,,,,,10.51
+2020-11-01,Rubiales,Hypertrophic,,,,,,74.74
+2020-11-01,San Marcos,Eutrophic,,,,,,6.3
+2020-11-01,Santa Lucia,Eutrophic,7.882704257965088,0.7211565375328064,0.7211565375328064,0.0019217332592234015,0.0019217332592234015,4.22
+2020-11-01,Talavan,Hypertrophic,,,,,,11.67
+2020-11-01,Tres Torres,Hypertrophic,,,,,,49.46
+2020-11-01,la Pesga,Eutrophic,,,,,,6.24
+2021-06-01,Acebo,Mesotrophic,,,,,,
+2021-06-01,Aguijon,Hypertrophic,,,,,,47.07
+2021-06-01,Alcuescar,Hypertrophic,17.167545318603516,4.712531566619873,3.2626564502716064,0.0,0.4389845132827759,26.89
+2021-06-01,Aldea del Cano,Hypertrophic,68.13229370117188,50.13078308105469,37.467376708984375,0.0,12.624164581298828,82.09
+2021-06-01,Aliseda,Eutrophic,,,,,,
+2021-06-01,Alpotrel,Eutrophic,,,,,,
+2021-06-01,Arrocerezal,Eutrophic,,,,,,
+2021-06-01,Brozas,Hypertrophic,71.92767333984375,43.21400833129883,35.3941535949707,0.0,17.249855041503906,50.1
+2021-06-01,Burguillos del Cerro,Hypertrophic,111.24171447753906,61.382850646972656,41.705711364746094,0.0,2.791067123413086,88.95
+2021-06-01,Cantalgallo,Eutrophic,,,,,,
+2021-06-01,Carrascalejo,Eutrophic,,,,,,
+2021-06-01,El Santo,Hypertrophic,,,,,,
+2021-06-01,Garciaz,Eutrophic,,,,,,
+2021-06-01,Garganta del Obispo,Hypertrophic,,,,,,
+2021-06-01,Guadalupe,Eutrophic,,,,,,
+2021-06-01,Hervas,Eutrophic,,,,,,
+2021-06-01,Jaime Ozores,Hypertrophic,30.98394203186035,1.5016229152679443,1.5016229152679443,0.0,0.0,43.74
+2021-06-01,Llerena,Hypertrophic,,,,,,
+2021-06-01,Los Angeles,Hypertrophic,,,,,,
+2021-06-01,Los Huertos,Hypertrophic,33.66468048095703,5.8629560470581055,5.8629560470581055,0.0,0.0,
+2021-06-01,Madronnera,Eutrophic,1.8816266059875488,0.2323906570672989,0.2323906570672989,0.0,0.0,3.57
+2021-06-01,Majadillas,Eutrophic,,,,,,
+2021-06-01,Majarrobledo,Mesotrophic,,,,,,
+2021-06-01,Membrio,Hypertrophic,,,,,,
+2021-06-01,Navarredonda,Hypertrophic,136.41073608398438,10.991421699523926,10.991421699523926,0.0,0.0,74.28
+2021-06-01,Navas del Madronno,Hypertrophic,15.561659812927246,13.211463928222656,10.112478256225586,0.0,4.7160820960998535,10.48
+2021-06-01,Nogales,Hypertrophic,,,,,,94.0
+2021-06-01,Palomero,Eutrophic,,,,,,
+2021-06-01,Pretura del Molino,Mesotrophic,,,,,,
+2021-06-01,Ribera del Castanno,Eutrophic,,,,,,
+2021-06-01,Rubiales,Hypertrophic,,,,,,
+2021-06-01,San Marcos,Eutrophic,,,,,,18.88
+2021-06-01,Santa Lucia,Eutrophic,,,,,,
+2021-06-01,Talavan,Hypertrophic,19.09402847290039,4.114202976226807,4.114202976226807,0.0,0.0,42.95
+2021-06-01,Tres Torres,Hypertrophic,,,,,,76.19
+2021-06-01,la Pesga,Eutrophic,,,,,,
+2021-11-01,Acebo,Mesotrophic,,,,,,7.5
+2021-11-01,Aguijon,Hypertrophic,40.20508575439453,14.401196479797363,11.046194076538086,0.0,1.4794567823410034,44.26
+2021-11-01,Alcuescar,Hypertrophic,27.442760467529297,2.8251123428344727,2.8251123428344727,0.0,0.0,20.94
+2021-11-01,Aldea del Cano,Hypertrophic,7.866176128387451,3.3802480697631836,2.735682725906372,0.0,0.7361671328544617,63.78
+2021-11-01,Aliseda,Eutrophic,9.939455032348633,2.250798225402832,2.250798225402832,0.0,0.0,8.64
+2021-11-01,Alpotrel,Eutrophic,7.337959289550781,2.951228618621826,2.3462681770324707,0.0,0.5759033560752869,10.4
+2021-11-01,Arrocerezal,Eutrophic,,,,,,6.69
+2021-11-01,Brozas,Hypertrophic,143.67665100097656,83.88410949707031,72.49317169189453,0.0,56.442420959472656,113.38
+2021-11-01,Burguillos del Cerro,Hypertrophic,,,,,,1.9
+2021-11-01,Cantalgallo,Eutrophic,,,,,,4.39
+2021-11-01,Carrascalejo,Eutrophic,,,,,,10.99
+2021-11-01,El Santo,Hypertrophic,16.51877212524414,6.897023677825928,4.600035667419434,0.0,1.3356107473373413,13.43
+2021-11-01,Garciaz,Eutrophic,4.594861030578613,0.4698777496814728,0.4698777496814728,0.0,0.0,4.33
+2021-11-01,Garganta del Obispo,Hypertrophic,,,,,,1.9
+2021-11-01,Guadalupe,Eutrophic,,,,,,7.6
+2021-11-01,Hervas,Eutrophic,13.580953598022461,1.2941017150878906,1.2941017150878906,0.0,0.0,12.93
+2021-11-01,Jaime Ozores,Hypertrophic,,,,,,7.28
+2021-11-01,Llerena,Hypertrophic,44.10263442993164,38.214683532714844,30.194320678710938,0.0,17.45539093017578,38.37
+2021-11-01,Los Angeles,Hypertrophic,,,,,,41.63
+2021-11-01,Los Huertos,Hypertrophic,,,,,,26.69
+2021-11-01,Madronnera,Eutrophic,7.807893753051758,4.939879894256592,3.3060154914855957,0.0,1.71924889087677,13.12
+2021-11-01,Majadillas,Eutrophic,0.5632762908935547,0.05245279520750046,0.05245279520750046,0.0,0.0,2.78
+2021-11-01,Majarrobledo,Mesotrophic,2.6918680667877197,0.4248988628387451,0.4248988628387451,0.0,0.0,2.27
+2021-11-01,Membrio,Hypertrophic,55.6775016784668,28.95862579345703,17.897947311401367,0.0,0.9373834133148193,44.41
+2021-11-01,Navarredonda,Hypertrophic,209.85391235351562,6.0137457847595215,6.0137457847595215,0.0,0.0,164.61
+2021-11-01,Navas del Madronno,Hypertrophic,,,,,,33.63
+2021-11-01,Nogales,Hypertrophic,36.264190673828125,15.084797859191895,13.525643348693848,0.38052797317504883,9.952807426452637,26.83
+2021-11-01,Palomero,Eutrophic,29.783483505249023,9.342758178710938,9.342758178710938,0.0,0.0,18.75
+2021-11-01,Pretura del Molino,Mesotrophic,3.6192450523376465,0.3637799024581909,0.3637799024581909,0.0,0.0,7.14
+2021-11-01,Ribera del Castanno,Eutrophic,15.210206985473633,1.0312219858169556,1.0312219858169556,0.0,0.0,20.89
+2021-11-01,Rubiales,Hypertrophic,39.72789001464844,2.9972341060638428,2.9972341060638428,0.0,0.0,70.85
+2021-11-01,San Marcos,Eutrophic,,,,,,27.73
+2021-11-01,Santa Lucia,Eutrophic,7.786098480224609,2.3798329830169678,2.2777037620544434,0.001444781431928277,0.8947332501411438,10.39
+2021-11-01,Talavan,Hypertrophic,41.69429397583008,25.487581253051758,20.4529972076416,0.0,16.361282348632812,35.06
+2021-11-01,Tres Torres,Hypertrophic,,,,,,111.98
+2021-11-01,la Pesga,Eutrophic,,,,,,33.45
+2022-06-01,Acebo,Mesotrophic,,,,,,
+2022-06-01,Aguijon,Hypertrophic,7.9874267578125,3.4454598426818848,2.579317092895508,0.0,0.5457200407981873,20.76
+2022-06-01,Alcuescar,Hypertrophic,,,,,,206.8
+2022-06-01,Aldea del Cano,Hypertrophic,144.7512664794922,112.16685485839844,84.30159759521484,0.0,32.60691452026367,91.02
+2022-06-01,Aliseda,Eutrophic,,,,,,
+2022-06-01,Alpotrel,Eutrophic,,,,,,
+2022-06-01,Arrocerezal,Eutrophic,,,,,,
+2022-06-01,Brozas,Hypertrophic,77.4429931640625,60.75581741333008,45.80836486816406,0.0,32.39243698120117,44.79
+2022-06-01,Burguillos del Cerro,Hypertrophic,65.84400177001953,37.667484283447266,25.576684951782227,0.0,1.407656192779541,61.64
+2022-06-01,Cantalgallo,Eutrophic,,,,,,
+2022-06-01,Carrascalejo,Eutrophic,,,,,,
+2022-06-01,El Santo,Hypertrophic,,,,,,
+2022-06-01,Garciaz,Eutrophic,,,,,,
+2022-06-01,Garganta del Obispo,Hypertrophic,,,,,,
+2022-06-01,Guadalupe,Eutrophic,,,,,,
+2022-06-01,Hervas,Eutrophic,,,,,,
+2022-06-01,Jaime Ozores,Hypertrophic,72.49468231201172,42.82463073730469,34.06065368652344,0.0,12.413288116455078,199.83
+2022-06-01,Llerena,Hypertrophic,51.27415084838867,40.64375686645508,33.2662353515625,0.0,17.94356918334961,30.43
+2022-06-01,Los Angeles,Hypertrophic,,,,,,
+2022-06-01,Los Huertos,Hypertrophic,,,,,,63.4
+2022-06-01,Madronnera,Eutrophic,,,,,,6.67
+2022-06-01,Majadillas,Eutrophic,,,,,,
+2022-06-01,Majarrobledo,Mesotrophic,,,,,,
+2022-06-01,Membrio,Hypertrophic,,,,,,
+2022-06-01,Navarredonda,Hypertrophic,,,,,,10.53
+2022-06-01,Navas del Madronno,Hypertrophic,42.11602783203125,12.278989791870117,12.278989791870117,0.0,0.0,29.38
+2022-06-01,Nogales,Hypertrophic,92.9560317993164,54.4933967590332,42.11446762084961,0.0,13.020298957824707,96.46
+2022-06-01,Palomero,Eutrophic,,,,,,
+2022-06-01,Pretura del Molino,Mesotrophic,,,,,,
+2022-06-01,Ribera del Castanno,Eutrophic,,,,,,
+2022-06-01,Rubiales,Hypertrophic,29.969953536987305,4.510594844818115,4.510594844818115,0.0,0.0,47.49
+2022-06-01,San Marcos,Eutrophic,,,,,,35.68
+2022-06-01,Santa Lucia,Eutrophic,,,,,,
+2022-06-01,Talavan,Hypertrophic,74.48941802978516,38.41464614868164,27.524381637573242,0.0,6.721717357635498,72.17
+2022-06-01,Tres Torres,Hypertrophic,,,,,,331.88
+2022-06-01,la Pesga,Eutrophic,,,,,,
+2022-11-01,Acebo,Mesotrophic,9.338417053222656,1.189905047416687,1.189905047416687,0.0,0.0,11.5
+2022-11-01,Aguijon,Hypertrophic,113.53215026855469,7.2712931632995605,7.2712931632995605,0.0,0.0,166.96
+2022-11-01,Alcuescar,Hypertrophic,,,,,,12.35
+2022-11-01,Aldea del Cano,Hypertrophic,53.98094940185547,11.835091590881348,11.835091590881348,0.0,0.0,46.81
+2022-11-01,Aliseda,Eutrophic,22.142934799194336,4.915485858917236,4.915485858917236,0.0,0.0,14.32
+2022-11-01,Alpotrel,Eutrophic,23.607215881347656,10.721602439880371,9.294997215270996,0.0,4.266978740692139,18.13
+2022-11-01,Arrocerezal,Eutrophic,19.83660125732422,2.159924268722534,2.159924268722534,0.0,0.0,18.95
+2022-11-01,Brozas,Hypertrophic,,,,,,40.0
+2022-11-01,Burguillos del Cerro,Hypertrophic,133.5310821533203,6.29664421081543,6.29664421081543,0.0,0.0,201.095
+2022-11-01,Cantalgallo,Eutrophic,,,,,,12.2
+2022-11-01,Carrascalejo,Eutrophic,,,,,,13.24
+2022-11-01,El Santo,Hypertrophic,99.67557525634766,21.086278915405273,21.086278915405273,0.0,0.0,62.78
+2022-11-01,Garciaz,Eutrophic,,,,,,16.42
+2022-11-01,Garganta del Obispo,Hypertrophic,0.7855445146560669,0.020643264055252075,0.020643264055252075,0.0,0.0,85.33
+2022-11-01,Guadalupe,Eutrophic,,,,,,17.09
+2022-11-01,Hervas,Eutrophic,,,,,,19.42
+2022-11-01,Jaime Ozores,Hypertrophic,278.71820068359375,150.36346435546875,123.61600494384766,0.0,58.97117233276367,211.82
+2022-11-01,Llerena,Hypertrophic,154.33985900878906,100.55453491210938,85.15413665771484,0.0,47.75007629394531,147.12
+2022-11-01,Los Angeles,Hypertrophic,,,,,,45.73
+2022-11-01,Los Huertos,Hypertrophic,,,,,,70.55
+2022-11-01,Madronnera,Eutrophic,,,,,,38.93
+2022-11-01,Majadillas,Eutrophic,20.142675399780273,0.8286479711532593,0.8286479711532593,0.0,0.0,25.99
+2022-11-01,Majarrobledo,Mesotrophic,,,,,,20.48
+2022-11-01,Membrio,Hypertrophic,,,,,,60.76
+2022-11-01,Navarredonda,Hypertrophic,,,,,,3.39
+2022-11-01,Navas del Madronno,Hypertrophic,,,,,,30.53
+2022-11-01,Nogales,Hypertrophic,51.110565185546875,18.291799545288086,14.119172096252441,0.0,2.2056212425231934,45.815
+2022-11-01,Palomero,Eutrophic,,,,,,44.83
+2022-11-01,Pretura del Molino,Mesotrophic,11.098599433898926,1.4538711309432983,1.4538711309432983,0.0,0.0,8.41
+2022-11-01,Ribera del Castanno,Eutrophic,,,,,,26.99
+2022-11-01,Rubiales,Hypertrophic,276.0787658691406,28.36716651916504,28.36716651916504,0.0,0.0,204.58
+2022-11-01,San Marcos,Eutrophic,,,,,,27.47
+2022-11-01,Santa Lucia,Eutrophic,,,,,,11.94
+2022-11-01,Talavan,Hypertrophic,65.12992095947266,39.124507904052734,28.509687423706055,0.0,16.191890716552734,45.02
+2022-11-01,Tres Torres,Hypertrophic,,,,,,278.23
+2022-11-01,la Pesga,Eutrophic,,,,,,20.13
